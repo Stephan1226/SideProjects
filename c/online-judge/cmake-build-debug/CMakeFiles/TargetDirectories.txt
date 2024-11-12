@@ -1,0 +1,3 @@
+/Users/sstephan/SideProjects/c/online-judge/cmake-build-debug/CMakeFiles/online_judge.dir
+/Users/sstephan/SideProjects/c/online-judge/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sstephan/SideProjects/c/online-judge/cmake-build-debug/CMakeFiles/rebuild_cache.dir
